@@ -6,7 +6,7 @@
 
 div.page{
 	display:grid;
-	grid-template-rows:auto auto auto 1fr auto auto;
+	grid-template-rows:auto auto auto 1fr auto;
 	min-height:100vh;
 }
 
@@ -250,5 +250,6 @@ div.filter-Buttons{
 	display:flex;
 
 }
+
 
 
